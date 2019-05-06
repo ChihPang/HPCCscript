@@ -1,0 +1,11 @@
+the regax is for get imformation from FFmpeg file output imformation
+
+is is for fram rate /( [0-9]+ fps)/
+
+it is for bitrate/( [0-9]+ kb/s)/
+
+it is for codec v1/( Video:+ +[a-z0-9]+ )/
+
+		v2/( Video:+ +[a-z0-9]+)/
+
+it is for resultion /(,+ +[0-9]+x+[0-9]+)/
